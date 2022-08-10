@@ -1,1 +1,1 @@
-loadstring(gameHttpGet(,true))()
+loadstring(gameHttpGet(("",true))
